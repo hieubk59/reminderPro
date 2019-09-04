@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reminderPro/static/css/main.12348540.chunk.css",
+    "main.js": "/reminderPro/static/js/main.3ed9af33.chunk.js",
+    "main.js.map": "/reminderPro/static/js/main.3ed9af33.chunk.js.map",
+    "runtime~main.js": "/reminderPro/static/js/runtime~main.a65fb0d8.js",
+    "runtime~main.js.map": "/reminderPro/static/js/runtime~main.a65fb0d8.js.map",
+    "static/js/2.51f563b0.chunk.js": "/reminderPro/static/js/2.51f563b0.chunk.js",
+    "static/js/2.51f563b0.chunk.js.map": "/reminderPro/static/js/2.51f563b0.chunk.js.map",
+    "index.html": "/reminderPro/index.html",
+    "precache-manifest.173a1ef1f65e55a85899529c96efd327.js": "/reminderPro/precache-manifest.173a1ef1f65e55a85899529c96efd327.js",
+    "service-worker.js": "/reminderPro/service-worker.js",
+    "static/css/main.12348540.chunk.css.map": "/reminderPro/static/css/main.12348540.chunk.css.map"
+  }
+}
